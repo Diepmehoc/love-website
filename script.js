@@ -1,5 +1,5 @@
 const messages = [
-  "Yêu Cá !"
+  "愛你們喔（紅吱吱）"
 ];
 
 function generateRandomNotifications() {
